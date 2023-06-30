@@ -1,0 +1,52 @@
+Department	Men	Women
+State	Order Count	Order Count
+California	12,554	10,776
+Texas	7,505	6,389
+New York	5,161	4,385
+Illinois	4,326	3,647
+Florida	2,876	2,681
+Ohio	2,848	2,180
+Arizona	2,114	1,863
+North Carolina	2,064	1,735
+Pennsylvania	2,051	1,851
+Michigan	1,939	1,561
+New Jersey	1,780	1,520
+Massachusetts	1,505	1,251
+Washington	1,502	1,209
+Colorado	1,470	1,182
+Wisconsin	1,423	1,216
+Indiana	1,367	1,180
+Georgia	1,356	1,228
+Missouri	1,343	1,164
+Virginia	1,335	1,107
+Minnesota	1,290	1,082
+Tennessee	1,199	993
+Oklahoma	1,084	946
+Oregon	1,044	933
+Alabama	1,013	989
+Iowa	992	806
+Louisiana	913	723
+Utah	825	597
+Kansas	823	679
+Arkansas	738	636
+South Carolina	662	559
+Maryland	626	537
+Nevada	607	525
+New Mexico	565	468
+Connecticut	552	453
+Mississippi	524	451
+Kentucky	520	462
+Nebraska	514	489
+Idaho	345	261
+West Virginia	266	218
+South Dakota	232	167
+Rhode Island	227	206
+District of Columbia	223	180
+North Dakota	218	195
+New Hampshire	205	159
+Montana	198	170
+Wyoming	191	156
+Maine	180	143
+Delaware	112	92
+Vermont	75	53
+Alaska	41	43
