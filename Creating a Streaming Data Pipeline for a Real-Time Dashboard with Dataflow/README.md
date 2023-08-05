@@ -23,3 +23,5 @@ Analyze results with SQL
 Visualize key metrics in Looker Studio
 
 ![streaming-taxi-pipeline](https://github.com/EslamFouadd/GCP-Engineer-Bootcamp/assets/77150715/c94cef49-2de8-4051-9d63-c9e8ca0fad96)
+
+![query](https://cdn.qwiklabs.com/Xa5TnUWvlo2F%2FjUzZKsajghlWksIOQR9UF94DlMuSB0%3D)
