@@ -1,0 +1,13 @@
+TimeSeries ID,job/per_stage_system_lag.dataflow_job.ALIGN_MAX.REDUCE_NONE.resource.type="dataflow_job" metric.type="dataflow.googleapis.com/job/per_stage_system_lag" resource.labels.project_id="qwiklabs-gcp-00-b39a901195d0".job_name:streaming-taxi-pipeline.project_id:qwiklabs-gcp-00-b39a901195d0.region:us-central1.job_id:2023-08-05_13_56_17-5205157885614282028.stage:F32,job/per_stage_system_lag.dataflow_job.ALIGN_MAX.REDUCE_NONE.resource.type="dataflow_job" metric.type="dataflow.googleapis.com/job/per_stage_system_lag" resource.labels.project_id="qwiklabs-gcp-00-b39a901195d0".job_name:streaming-taxi-pipeline.project_id:qwiklabs-gcp-00-b39a901195d0.region:us-central1.job_id:2023-08-05_13_56_17-5205157885614282028.stage:F33,job/per_stage_system_lag.dataflow_job.ALIGN_MAX.REDUCE_NONE.resource.type="dataflow_job" metric.type="dataflow.googleapis.com/job/per_stage_system_lag" resource.labels.project_id="qwiklabs-gcp-00-b39a901195d0".job_name:streaming-taxi-pipeline.project_id:qwiklabs-gcp-00-b39a901195d0.region:us-central1.job_id:2023-08-05_13_56_17-5205157885614282028.stage:F34,job/per_stage_system_lag.dataflow_job.ALIGN_MAX.REDUCE_NONE.resource.type="dataflow_job" metric.type="dataflow.googleapis.com/job/per_stage_system_lag" resource.labels.project_id="qwiklabs-gcp-00-b39a901195d0".job_name:streaming-taxi-pipeline.project_id:qwiklabs-gcp-00-b39a901195d0.region:us-central1.job_id:2023-08-05_13_56_17-5205157885614282028.stage:F35
+stage,F32,F33,F34,F35
+job_id,2023-08-05_13_56_17-5205157885614282028,2023-08-05_13_56_17-5205157885614282028,2023-08-05_13_56_17-5205157885614282028,2023-08-05_13_56_17-5205157885614282028
+job_name,streaming-taxi-pipeline,streaming-taxi-pipeline,streaming-taxi-pipeline,streaming-taxi-pipeline
+region,us-central1,us-central1,us-central1,us-central1
+project_id,qwiklabs-gcp-00-b39a901195d0,qwiklabs-gcp-00-b39a901195d0,qwiklabs-gcp-00-b39a901195d0,qwiklabs-gcp-00-b39a901195d0
+1691269140000,1,1,1,1
+1691269200000,0,0,0,0
+1691269260000,0,0,0,0
+1691269320000,0,0,0,0
+1691269380000,0,0,0,0
+1691269440000,0,0,0,0
+1691269500000,0,0,0,0
