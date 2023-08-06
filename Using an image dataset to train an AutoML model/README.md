@@ -24,3 +24,6 @@ Vertex AI includes many different products to support end-to-end ML workflows. T
 ![img](https://cdn.qwiklabs.com/Q4vrDDMIwR4Z2y1thcjFG4RZb0ibmJcNUWpb404B4ao%3D)
 
 
+# Send a prediction to your model
+
+![img](https://cdn.qwiklabs.com/M%2BBiLmR%2FZRTpCl9t1wHqVjlWnx9wh%2FAKXH5RBLKJxgk%3D)
