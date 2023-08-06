@@ -19,3 +19,5 @@ This lab uses the newest AI product offering available on Google Cloud. Vertex A
 Vertex AI includes many different products to support end-to-end ML workflows. This lab focuses on the products highlighted below: Training/HP-Tuning and Notebooks.
 
 ![img](https://cdn.qwiklabs.com/Q4vrDDMIwR4Z2y1thcjFG4RZb0ibmJcNUWpb404B4ao%3D)
+
+In the notebook interface, navigate to training-data-analyst > courses > machine_learning > deepdive2 > launching_into_ml > labs, and open improve_data_quality.ipynb.
