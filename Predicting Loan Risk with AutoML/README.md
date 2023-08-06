@@ -21,6 +21,8 @@ Deploy the model to an endpoint.
 
 Get predictions.
 
+# Processes:
+
 ### The precision/recall curve
 ![result](https://cdn.qwiklabs.com/A4JZx0Lr%2FoWJaLFG%2FuQtxyUyPb%2FhxFZFld1%2Fd%2BYkRlY%3D)
 
