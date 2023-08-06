@@ -2,6 +2,8 @@
 
 In this lab, we will create an image classification dataset and import images, train an AutoML image classification model, deploy a model to an endpoint and send a prediction.
 
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Iris_dataset_scatterplot.svg/1200px-Iris_dataset_scatterplot.svg.png)
+
 # Overview
 
 In this lab, you create an image classification dataset and import images, train an AutoML image classification model, deploy a model to an endpoint, and send a prediction.
