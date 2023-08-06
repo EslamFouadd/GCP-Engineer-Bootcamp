@@ -22,5 +22,13 @@ Deploy the model to an endpoint.
 Get predictions.
 
 ### The precision/recall curve
-
 ![result](https://cdn.qwiklabs.com/A4JZx0Lr%2FoWJaLFG%2FuQtxyUyPb%2FhxFZFld1%2Fd%2BYkRlY%3D)
+
+### Confusion Matrix
+![confusion](https://cdn.qwiklabs.com/oJKZ0g9jWNl91cXCfb2%2BYUebLAcvsSa9e5jMrSDPGJ8%3D)
+
+### Feature Importance
+![features](https://cdn.qwiklabs.com/9qtRHmUX%2BZCgezs%2BrWozgSuwZTcw7GxiaYgqaxcoag4%3D)
+
+### Prdictions (i.e., testing your model).
+![predictions](https://cdn.qwiklabs.com/p%2Fbngfk2MNJxcgDxeq8RUShmJ7A6KYSXgOaY6ACJGZs%3D)
